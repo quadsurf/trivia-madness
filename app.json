@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Trivia Madness",
+    "description": "Apple's Top Pick for Trivia Game of the Year",
+    "slug": "trivia",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#371A85",
+    "icon": "./assets/icon.png",
+    "loading": {
+      "backgroundColor": "#371A85",
+      "hideExponentText": true,
+      "loadingIndicatorStyleExperimental": "light"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#371A85"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
